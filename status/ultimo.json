@@ -1,0 +1,450 @@
+{
+ "formato": 2,
+ "run": {
+  "id": "40255697429",
+  "numero": 7,
+  "branch": "main",
+  "commit": "f40d71a",
+  "evento": "workflow_dispatch",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/40255697429",
+  "concluidoEm": "2026-10-26T01:45:20.184Z",
+  "conclusao": "success"
+ },
+ "totais": {
+  "pulado": 3,
+  "pendente": 68
+ },
+ "tags": {},
+ "golden": {
+  "GD-AUD-01": {
+   "status": "pendente",
+   "historias": [
+    "H01"
+   ]
+  },
+  "GD-AUD-02": {
+   "status": "pendente",
+   "historias": [
+    "H01"
+   ]
+  },
+  "GD-AUD-03": {
+   "status": "pendente",
+   "historias": [
+    "H01",
+    "H20"
+   ]
+  },
+  "GD-LGPD-01": {
+   "status": "pendente",
+   "historias": [
+    "H02"
+   ]
+  },
+  "GD-LGPD-02": {
+   "status": "pendente",
+   "historias": [
+    "H02"
+   ]
+  },
+  "GD-LGPD-03": {
+   "status": "pendente",
+   "historias": [
+    "H02",
+    "H06"
+   ]
+  },
+  "GD-LGPD-04": {
+   "status": "pendente",
+   "historias": [
+    "H06"
+   ]
+  },
+  "GD-INJ-01": {
+   "status": "pendente",
+   "historias": [
+    "H03",
+    "H08"
+   ]
+  },
+  "GD-INJ-02": {
+   "status": "pendente",
+   "historias": [
+    "H03"
+   ]
+  },
+  "GD-INJ-03": {
+   "status": "pendente",
+   "historias": [
+    "H03"
+   ]
+  },
+  "GD-SCH-01": {
+   "status": "pendente",
+   "historias": [
+    "H03"
+   ]
+  },
+  "GD-CTL-01": {
+   "status": "pendente",
+   "historias": [
+    "H04",
+    "H10",
+    "H12"
+   ]
+  },
+  "GD-CTL-02": {
+   "status": "pendente",
+   "historias": [
+    "H04",
+    "H12"
+   ]
+  },
+  "GD-CTL-03": {
+   "status": "pendente",
+   "historias": [
+    "H04",
+    "H12"
+   ]
+  },
+  "GD-CTL-04": {
+   "status": "pendente",
+   "historias": [
+    "H04",
+    "H12"
+   ]
+  },
+  "GD-CTL-05": {
+   "status": "pendente",
+   "historias": [
+    "H12"
+   ]
+  },
+  "GD-REC-01": {
+   "status": "pendente",
+   "historias": [
+    "H04"
+   ]
+  },
+  "GD-REC-02": {
+   "status": "pendente",
+   "historias": [
+    "H04",
+    "H10"
+   ]
+  },
+  "GD-REC-03": {
+   "status": "pendente",
+   "historias": [
+    "H11",
+    "H17"
+   ]
+  },
+  "GD-REC-04": {
+   "status": "pendente",
+   "historias": [
+    "H11",
+    "H17"
+   ]
+  },
+  "GD-REC-05": {
+   "status": "pendente",
+   "historias": [
+    "H11",
+    "H17"
+   ]
+  },
+  "GD-REC-06": {
+   "status": "pendente",
+   "historias": [
+    "H11",
+    "H17"
+   ]
+  },
+  "GD-REC-07": {
+   "status": "pendente",
+   "historias": [
+    "H11"
+   ]
+  },
+  "GD-FON-01": {
+   "status": "pendente",
+   "historias": [
+    "H05",
+    "H15"
+   ]
+  },
+  "GD-FON-02": {
+   "status": "pendente",
+   "historias": [
+    "H05"
+   ]
+  },
+  "GD-FON-03": {
+   "status": "pendente",
+   "historias": [
+    "H05"
+   ]
+  },
+  "GD-ALE-01": {
+   "status": "pendente",
+   "historias": [
+    "H07"
+   ]
+  },
+  "GD-ALE-02": {
+   "status": "pendente",
+   "historias": [
+    "H07"
+   ]
+  },
+  "GD-ALE-03": {
+   "status": "pendente",
+   "historias": [
+    "H07"
+   ]
+  },
+  "GD-ALE-04": {
+   "status": "pendente",
+   "historias": [
+    "H07",
+    "H09"
+   ]
+  },
+  "GD-ALE-05": {
+   "status": "pendente",
+   "historias": [
+    "H07"
+   ]
+  },
+  "GD-ALE-06": {
+   "status": "pendente",
+   "historias": [
+    "H07"
+   ]
+  },
+  "GD-ALE-07": {
+   "status": "pendente",
+   "historias": [
+    "H13"
+   ]
+  },
+  "GD-ALE-08": {
+   "status": "pendente",
+   "historias": [
+    "H13"
+   ]
+  },
+  "GD-ALE-09": {
+   "status": "pendente",
+   "historias": [
+    "H07",
+    "H14"
+   ]
+  },
+  "GD-ALE-10": {
+   "status": "pendente",
+   "historias": [
+    "H07"
+   ]
+  },
+  "GD-TRI-01": {
+   "status": "pendente",
+   "historias": [
+    "H08"
+   ]
+  },
+  "GD-TRI-02": {
+   "status": "pendente",
+   "historias": [
+    "H08"
+   ]
+  },
+  "GD-TRI-03": {
+   "status": "pendente",
+   "historias": [
+    "H08"
+   ]
+  },
+  "GD-TRI-04": {
+   "status": "pendente",
+   "historias": [
+    "H08",
+    "H10"
+   ]
+  },
+  "GD-TRI-05": {
+   "status": "pendente",
+   "historias": [
+    "H08",
+    "H10"
+   ]
+  },
+  "GD-TRI-06": {
+   "status": "pendente",
+   "historias": [
+    "H08"
+   ]
+  },
+  "GD-TRI-07": {
+   "status": "pendente",
+   "historias": [
+    "H08"
+   ]
+  },
+  "GD-TRI-08": {
+   "status": "pendente",
+   "historias": [
+    "H08"
+   ]
+  },
+  "GD-TRI-09": {
+   "status": "pendente",
+   "historias": [
+    "H10"
+   ]
+  },
+  "GD-PER-01": {
+   "status": "pendente",
+   "historias": [
+    "H09"
+   ]
+  },
+  "GD-PER-02": {
+   "status": "pendente",
+   "historias": [
+    "H09"
+   ]
+  },
+  "GD-PER-03": {
+   "status": "pendente",
+   "historias": [
+    "H09"
+   ]
+  },
+  "GD-SIN-01": {
+   "status": "pendente",
+   "historias": [
+    "H14"
+   ]
+  },
+  "GD-SIN-02": {
+   "status": "pendente",
+   "historias": [
+    "H14"
+   ]
+  },
+  "GD-SIN-03": {
+   "status": "pendente",
+   "historias": [
+    "H14"
+   ]
+  },
+  "GD-SUG-01": {
+   "status": "pendente",
+   "historias": [
+    "H05",
+    "H15"
+   ]
+  },
+  "GD-SUG-02": {
+   "status": "pendente",
+   "historias": [
+    "H15"
+   ]
+  },
+  "GD-SUG-03": {
+   "status": "pendente",
+   "historias": [
+    "H15"
+   ]
+  },
+  "GD-SUG-04": {
+   "status": "pendente",
+   "historias": [
+    "H15"
+   ]
+  },
+  "GD-APR-01": {
+   "status": "pendente",
+   "historias": [
+    "H16"
+   ]
+  },
+  "GD-APR-02": {
+   "status": "pendente",
+   "historias": [
+    "H16",
+    "H18"
+   ]
+  },
+  "GD-APR-03": {
+   "status": "pendente",
+   "historias": [
+    "H16"
+   ]
+  },
+  "GD-APR-04": {
+   "status": "pendente",
+   "historias": [
+    "H16"
+   ]
+  },
+  "GD-BUR-01": {
+   "status": "pendente",
+   "historias": [
+    "H10"
+   ]
+  },
+  "GD-BUR-02": {
+   "status": "pendente",
+   "historias": [
+    "H03",
+    "H14"
+   ]
+  },
+  "GD-BUR-03": {
+   "status": "pendente",
+   "historias": [
+    "H12"
+   ]
+  },
+  "GD-BUR-04": {
+   "status": "pendente",
+   "historias": [
+    "H15",
+    "H18"
+   ]
+  },
+  "GD-BUR-05": {
+   "status": "pendente",
+   "historias": [
+    "H06"
+   ]
+  },
+  "GD-BUR-06": {
+   "status": "pendente",
+   "historias": [
+    "H18"
+   ]
+  },
+  "GD-CUR-01": {
+   "status": "pendente",
+   "historias": [
+    "H19"
+   ]
+  },
+  "GD-CUR-02": {
+   "status": "pendente",
+   "historias": [
+    "H19"
+   ]
+  },
+  "GD-CUR-03": {
+   "status": "pendente",
+   "historias": [
+    "H20"
+   ]
+  }
+ }
+}

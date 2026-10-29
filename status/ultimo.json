@@ -1,13 +1,13 @@
 {
  "formato": 2,
  "run": {
-  "id": "40255697429",
-  "numero": 7,
-  "branch": "main",
-  "commit": "f40d71a",
-  "evento": "workflow_dispatch",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/40255697429",
-  "concluidoEm": "2026-10-26T01:45:20.184Z",
+  "id": "40960423683",
+  "numero": 8,
+  "branch": "docs/wireframes-v0",
+  "commit": "90b17be",
+  "evento": "pull_request",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/40960423683",
+  "concluidoEm": "2026-10-29T21:45:57.257Z",
   "conclusao": "success"
  },
  "totais": {

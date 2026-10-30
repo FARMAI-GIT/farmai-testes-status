@@ -1,13 +1,13 @@
 {
  "formato": 2,
  "run": {
-  "id": "40986408399",
-  "numero": 9,
-  "branch": "testes/bloco-1",
-  "commit": "c18ac85",
+  "id": "41075954553",
+  "numero": 10,
+  "branch": "docs/wireframes-v0.1",
+  "commit": "7642efe",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/40986408399",
-  "concluidoEm": "2026-10-30T01:32:39.955Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/41075954553",
+  "concluidoEm": "2026-10-30T14:56:03.067Z",
   "conclusao": "success"
  },
  "totais": {

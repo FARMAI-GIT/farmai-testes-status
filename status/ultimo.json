@@ -1,20 +1,120 @@
 {
  "formato": 2,
  "run": {
-  "id": "40960423683",
-  "numero": 8,
-  "branch": "docs/wireframes-v0",
-  "commit": "90b17be",
+  "id": "40986408399",
+  "numero": 9,
+  "branch": "testes/bloco-1",
+  "commit": "c18ac85",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/40960423683",
-  "concluidoEm": "2026-10-29T21:45:57.257Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/40986408399",
+  "concluidoEm": "2026-10-30T01:32:39.955Z",
   "conclusao": "success"
  },
  "totais": {
-  "pulado": 3,
-  "pendente": 68
+  "pulado": 21,
+  "pendente": 83
  },
- "tags": {},
+ "tags": {
+  "H21-CA01": [
+   "pulado"
+  ],
+  "H21-CA02": [
+   "pendente"
+  ],
+  "H21-CA03": [
+   "pendente"
+  ],
+  "H21-CA04": [
+   "pendente"
+  ],
+  "H21-CA05": [
+   "pendente"
+  ],
+  "H21-CA06": [
+   "pendente"
+  ],
+  "H21-CA07": [
+   "pendente"
+  ],
+  "H21-CA08": [
+   "pendente"
+  ],
+  "H21-CA09": [
+   "pendente"
+  ],
+  "H35-CA01": [
+   "pulado"
+  ],
+  "H35-CA02": [
+   "pulado"
+  ],
+  "H35-CA03": [
+   "pulado"
+  ],
+  "H35-CA04": [
+   "pulado"
+  ],
+  "H35-CA05": [
+   "pulado"
+  ],
+  "H35-CA06": [
+   "pendente"
+  ],
+  "H35-CA07": [
+   "pulado"
+  ],
+  "H35-CA08": [
+   "pulado"
+  ],
+  "H35-CA09": [
+   "pendente"
+  ],
+  "H01-CA01": [
+   "pulado"
+  ],
+  "H01-CA02": [
+   "pulado"
+  ],
+  "H01-CA03": [
+   "pulado"
+  ],
+  "H01-CA04": [
+   "pulado"
+  ],
+  "H01-CA05": [
+   "pulado"
+  ],
+  "H01-CA06": [
+   "pendente"
+  ],
+  "H01-CA07": [
+   "pendente"
+  ],
+  "H02-CA01": [
+   "pulado"
+  ],
+  "H02-CA02": [
+   "pulado"
+  ],
+  "H02-CA03": [
+   "pulado"
+  ],
+  "H02-CA04": [
+   "pendente"
+  ],
+  "H02-CA05": [
+   "pendente"
+  ],
+  "H02-CA06": [
+   "pulado"
+  ],
+  "H02-CA07": [
+   "pendente"
+  ],
+  "H02-CA08": [
+   "pulado"
+  ]
+ },
  "golden": {
   "GD-AUD-01": {
    "status": "pendente",

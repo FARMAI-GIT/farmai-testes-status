@@ -1,18 +1,19 @@
 {
  "formato": 2,
  "run": {
-  "id": "41876201679",
-  "numero": 13,
-  "branch": "docs/marca-v0.1",
-  "commit": "ac294ed",
+  "id": "41899751007",
+  "numero": 14,
+  "branch": "fornecedor/bloco-1-pr",
+  "commit": "2f5601c",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/41876201679",
-  "concluidoEm": "2026-11-04T17:19:31.034Z",
-  "conclusao": "success"
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/41899751007",
+  "concluidoEm": "2026-11-04T19:44:31.863Z",
+  "conclusao": "failure"
  },
  "totais": {
   "pulado": 21,
-  "pendente": 83
+  "pendente": 82,
+  "falhou": 1
  },
  "tags": {
   "H21-CA01": [
@@ -67,7 +68,7 @@
    "pulado"
   ],
   "H35-CA09": [
-   "pendente"
+   "falhou"
   ],
   "H01-CA01": [
    "pulado"

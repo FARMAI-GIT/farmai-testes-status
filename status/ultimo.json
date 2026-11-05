@@ -1,18 +1,18 @@
 {
  "formato": 2,
  "run": {
-  "id": "42073992712",
-  "numero": 22,
+  "id": "42081539008",
+  "numero": 24,
   "branch": "fornecedor/bloco-1-pr",
   "commit": "c96ffa4",
   "evento": "workflow_dispatch",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42073992712",
-  "concluidoEm": "2026-11-05T17:36:02.856Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42081539008",
+  "concluidoEm": "2026-11-05T18:12:28.254Z",
   "conclusao": "failure"
  },
  "totais": {
-  "passou": 12,
-  "falhou": 9,
+  "passou": 14,
+  "falhou": 7,
   "pendente": 82,
   "pulado": 1
  },
@@ -72,7 +72,7 @@
    "passou"
   ],
   "H01-CA01": [
-   "falhou"
+   "passou"
   ],
   "H01-CA02": [
    "falhou"
@@ -114,7 +114,7 @@
    "pendente"
   ],
   "H02-CA08": [
-   "falhou"
+   "passou"
   ]
  },
  "golden": {

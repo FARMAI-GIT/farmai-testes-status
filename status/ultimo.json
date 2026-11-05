@@ -1,24 +1,24 @@
 {
  "formato": 2,
  "run": {
-  "id": "42075264261",
-  "numero": 23,
-  "branch": "docs/consentimento-v0.1",
-  "commit": "01cb654",
-  "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42075264261",
-  "concluidoEm": "2026-11-05T17:34:21.657Z",
+  "id": "42073992712",
+  "numero": 22,
+  "branch": "fornecedor/bloco-1-pr",
+  "commit": "c96ffa4",
+  "evento": "workflow_dispatch",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42073992712",
+  "concluidoEm": "2026-11-05T17:36:02.856Z",
   "conclusao": "failure"
  },
  "totais": {
-  "passou": 16,
-  "pendente": 86,
-  "pulado": 1,
-  "falhou": 3
+  "passou": 12,
+  "falhou": 9,
+  "pendente": 82,
+  "pulado": 1
  },
  "tags": {
   "H21-CA01": [
-   "pendente"
+   "falhou"
   ],
   "H21-CA02": [
    "pendente"
@@ -54,26 +54,25 @@
    "pulado"
   ],
   "H35-CA04": [
-   "passou",
-   "pendente"
+   "falhou"
   ],
   "H35-CA05": [
-   "passou"
+   "falhou"
   ],
   "H35-CA06": [
    "pendente"
   ],
   "H35-CA07": [
-   "pendente"
+   "passou"
   ],
   "H35-CA08": [
    "passou"
   ],
   "H35-CA09": [
-   "pendente"
+   "passou"
   ],
   "H01-CA01": [
-   "passou"
+   "falhou"
   ],
   "H01-CA02": [
    "falhou"
@@ -109,14 +108,13 @@
    "pendente"
   ],
   "H02-CA06": [
-   "passou",
    "falhou"
   ],
   "H02-CA07": [
    "pendente"
   ],
   "H02-CA08": [
-   "passou"
+   "falhou"
   ]
  },
  "golden": {

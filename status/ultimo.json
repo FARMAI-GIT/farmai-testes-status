@@ -1,20 +1,20 @@
 {
  "formato": 2,
  "run": {
-  "id": "42070839671",
-  "numero": 20,
-  "branch": "testes/contrato-fornecedor",
-  "commit": "fd4e466",
+  "id": "42075264261",
+  "numero": 23,
+  "branch": "docs/consentimento-v0.1",
+  "commit": "01cb654",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42070839671",
-  "concluidoEm": "2026-11-05T17:14:29.045Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42075264261",
+  "concluidoEm": "2026-11-05T17:34:21.657Z",
   "conclusao": "failure"
  },
  "totais": {
   "passou": 16,
   "pendente": 86,
   "pulado": 1,
-  "falhou": 2
+  "falhou": 3
  },
  "tags": {
   "H21-CA01": [
@@ -109,7 +109,8 @@
    "pendente"
   ],
   "H02-CA06": [
-   "passou"
+   "passou",
+   "falhou"
   ],
   "H02-CA07": [
    "pendente"

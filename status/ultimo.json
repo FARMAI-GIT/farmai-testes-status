@@ -1,13 +1,13 @@
 {
  "formato": 2,
  "run": {
-  "id": "42251957442",
-  "numero": 30,
+  "id": "42253127925",
+  "numero": 31,
   "branch": "seguranca/checklist-riscos",
-  "commit": "5693e55",
+  "commit": "3fcdbaa",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42251957442",
-  "concluidoEm": "2026-11-06T16:26:29.159Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42253127925",
+  "concluidoEm": "2026-11-06T16:34:03.726Z",
   "conclusao": "failure"
  },
  "totais": {

@@ -1,24 +1,24 @@
 {
  "formato": 2,
  "run": {
-  "id": "42243578897",
-  "numero": 29,
+  "id": "42243577874",
+  "numero": 28,
   "branch": "fornecedor/bloco-1-pr",
-  "commit": "fe94572",
+  "commit": "056f58b",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42243578897",
-  "concluidoEm": "2026-11-06T15:33:52.229Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42243577874",
+  "concluidoEm": "2026-11-06T15:34:07.989Z",
   "conclusao": "failure"
  },
  "totais": {
-  "passou": 14,
-  "falhou": 7,
-  "pendente": 82,
-  "pulado": 1
+  "passou": 17,
+  "pendente": 85,
+  "pulado": 1,
+  "falhou": 3
  },
  "tags": {
   "H21-CA01": [
-   "falhou"
+   "pendente"
   ],
   "H21-CA02": [
    "pendente"
@@ -54,16 +54,17 @@
    "pulado"
   ],
   "H35-CA04": [
-   "falhou"
+   "passou",
+   "pendente"
   ],
   "H35-CA05": [
-   "falhou"
+   "passou"
   ],
   "H35-CA06": [
    "pendente"
   ],
   "H35-CA07": [
-   "falhou"
+   "pendente"
   ],
   "H35-CA08": [
    "passou"
@@ -108,7 +109,8 @@
    "pendente"
   ],
   "H02-CA06": [
-   "passou"
+   "passou",
+   "falhou"
   ],
   "H02-CA07": [
    "pendente"

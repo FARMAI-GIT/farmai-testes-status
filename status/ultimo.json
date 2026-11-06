@@ -1,20 +1,20 @@
 {
  "formato": 2,
  "run": {
-  "id": "42243577874",
-  "numero": 28,
-  "branch": "fornecedor/bloco-1-pr",
-  "commit": "056f58b",
+  "id": "42251957442",
+  "numero": 30,
+  "branch": "seguranca/checklist-riscos",
+  "commit": "5693e55",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42243577874",
-  "concluidoEm": "2026-11-06T15:34:07.989Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42251957442",
+  "concluidoEm": "2026-11-06T16:26:29.159Z",
   "conclusao": "failure"
  },
  "totais": {
-  "passou": 17,
-  "pendente": 85,
+  "passou": 15,
+  "pendente": 86,
   "pulado": 1,
-  "falhou": 3
+  "falhou": 4
  },
  "tags": {
   "H21-CA01": [
@@ -70,7 +70,7 @@
    "passou"
   ],
   "H35-CA09": [
-   "passou"
+   "pendente"
   ],
   "H01-CA01": [
    "passou"
@@ -109,7 +109,7 @@
    "pendente"
   ],
   "H02-CA06": [
-   "passou",
+   "falhou",
    "falhou"
   ],
   "H02-CA07": [

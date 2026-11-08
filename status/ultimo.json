@@ -1,24 +1,24 @@
 {
  "formato": 2,
  "run": {
-  "id": "42275662892",
-  "numero": 38,
-  "branch": "fornecedor/bloco-1-pr",
-  "commit": "119dc33",
+  "id": "42434396778",
+  "numero": 39,
+  "branch": "docs/copy-jornadas-v1",
+  "commit": "9dc9087",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42275662892",
-  "concluidoEm": "2026-11-06T19:03:33.833Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42434396778",
+  "concluidoEm": "2026-11-08T01:30:03.142Z",
   "conclusao": "failure"
  },
  "totais": {
-  "passou": 16,
-  "falhou": 5,
-  "pendente": 82,
-  "pulado": 1
+  "passou": 18,
+  "pendente": 86,
+  "pulado": 1,
+  "falhou": 1
  },
  "tags": {
   "H21-CA01": [
-   "falhou"
+   "pendente"
   ],
   "H21-CA02": [
    "pendente"
@@ -54,22 +54,23 @@
    "pulado"
   ],
   "H35-CA04": [
-   "falhou"
+   "passou",
+   "pendente"
   ],
   "H35-CA05": [
-   "falhou"
+   "passou"
   ],
   "H35-CA06": [
    "pendente"
   ],
   "H35-CA07": [
-   "passou"
+   "pendente"
   ],
   "H35-CA08": [
    "passou"
   ],
   "H35-CA09": [
-   "passou"
+   "pendente"
   ],
   "H01-CA01": [
    "passou"
@@ -108,6 +109,7 @@
    "pendente"
   ],
   "H02-CA06": [
+   "passou",
    "passou"
   ],
   "H02-CA07": [

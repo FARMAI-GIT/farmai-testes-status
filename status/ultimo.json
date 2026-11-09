@@ -1,20 +1,19 @@
 {
  "formato": 2,
  "run": {
-  "id": "42657942023",
-  "numero": 42,
-  "branch": "docs/hb18-contingencia-whatsapp",
-  "commit": "fffd5df",
+  "id": "42673252789",
+  "numero": 43,
+  "branch": "fornecedor/bloco-1-ajustes",
+  "commit": "fb99eb6",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42657942023",
-  "concluidoEm": "2026-11-09T16:46:51.894Z",
-  "conclusao": "failure"
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42673252789",
+  "concluidoEm": "2026-11-09T18:22:12.104Z",
+  "conclusao": "success"
  },
  "totais": {
-  "passou": 18,
+  "passou": 20,
   "pendente": 85,
-  "pulado": 1,
-  "falhou": 2
+  "pulado": 1
  },
  "tags": {
   "H21-CA01": [
@@ -76,7 +75,7 @@
    "passou"
   ],
   "H01-CA02": [
-   "falhou"
+   "passou"
   ],
   "H01-CA03": [
    "passou"
@@ -97,7 +96,7 @@
    "passou"
   ],
   "H02-CA02": [
-   "falhou"
+   "passou"
   ],
   "H02-CA03": [
    "passou"

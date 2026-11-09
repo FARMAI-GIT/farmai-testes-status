@@ -1,20 +1,20 @@
 {
  "formato": 2,
  "run": {
-  "id": "42653732727",
-  "numero": 41,
-  "branch": "docs/hb17-fontes-oficiais",
-  "commit": "f6baede",
+  "id": "42657942023",
+  "numero": 42,
+  "branch": "docs/hb18-contingencia-whatsapp",
+  "commit": "fffd5df",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42653732727",
-  "concluidoEm": "2026-11-09T16:22:23.274Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42657942023",
+  "concluidoEm": "2026-11-09T16:46:51.894Z",
   "conclusao": "failure"
  },
  "totais": {
-  "passou": 17,
+  "passou": 18,
   "pendente": 85,
   "pulado": 1,
-  "falhou": 3
+  "falhou": 2
  },
  "tags": {
   "H21-CA01": [
@@ -110,7 +110,7 @@
   ],
   "H02-CA06": [
    "passou",
-   "falhou"
+   "passou"
   ],
   "H02-CA07": [
    "pendente"

@@ -1,20 +1,20 @@
 {
  "formato": 2,
  "run": {
-  "id": "42434396778",
-  "numero": 39,
-  "branch": "docs/copy-jornadas-v1",
-  "commit": "9dc9087",
-  "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42434396778",
-  "concluidoEm": "2026-11-08T01:30:03.142Z",
+  "id": "42648294958",
+  "numero": 40,
+  "branch": "main",
+  "commit": "3a7f6b3",
+  "evento": "workflow_dispatch",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42648294958",
+  "concluidoEm": "2026-11-09T15:49:44.553Z",
   "conclusao": "failure"
  },
  "totais": {
   "passou": 18,
-  "pendente": 86,
+  "pendente": 85,
   "pulado": 1,
-  "falhou": 1
+  "falhou": 2
  },
  "tags": {
   "H21-CA01": [
@@ -70,7 +70,7 @@
    "passou"
   ],
   "H35-CA09": [
-   "pendente"
+   "passou"
   ],
   "H01-CA01": [
    "passou"
@@ -97,7 +97,7 @@
    "passou"
   ],
   "H02-CA02": [
-   "passou"
+   "falhou"
   ],
   "H02-CA03": [
    "passou"

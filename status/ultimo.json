@@ -1,20 +1,20 @@
 {
  "formato": 2,
  "run": {
-  "id": "42648294958",
-  "numero": 40,
-  "branch": "main",
-  "commit": "3a7f6b3",
-  "evento": "workflow_dispatch",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42648294958",
-  "concluidoEm": "2026-11-09T15:49:44.553Z",
+  "id": "42653732727",
+  "numero": 41,
+  "branch": "docs/hb17-fontes-oficiais",
+  "commit": "f6baede",
+  "evento": "pull_request",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42653732727",
+  "concluidoEm": "2026-11-09T16:22:23.274Z",
   "conclusao": "failure"
  },
  "totais": {
-  "passou": 18,
+  "passou": 17,
   "pendente": 85,
   "pulado": 1,
-  "falhou": 2
+  "falhou": 3
  },
  "tags": {
   "H21-CA01": [
@@ -110,7 +110,7 @@
   ],
   "H02-CA06": [
    "passou",
-   "passou"
+   "falhou"
   ],
   "H02-CA07": [
    "pendente"

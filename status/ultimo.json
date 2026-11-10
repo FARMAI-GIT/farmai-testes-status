@@ -1,13 +1,13 @@
 {
  "formato": 2,
  "run": {
-  "id": "42693712641",
-  "numero": 45,
-  "branch": "fornecedor/bloco-1-ajustes",
-  "commit": "b0de4a6",
-  "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42693712641",
-  "concluidoEm": "2026-11-09T20:32:19.851Z",
+  "id": "42825087948",
+  "numero": 46,
+  "branch": "main",
+  "commit": "7b048d4",
+  "evento": "workflow_dispatch",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/42825087948",
+  "concluidoEm": "2026-11-10T13:33:20.766Z",
   "conclusao": "success"
  },
  "totais": {

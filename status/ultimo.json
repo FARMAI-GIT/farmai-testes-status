@@ -1,13 +1,13 @@
 {
  "formato": 2,
  "run": {
-  "id": "43029210629",
-  "numero": 52,
-  "branch": "fornecedor/bloco-1-ajustes",
-  "commit": "70709c1",
+  "id": "43041863824",
+  "numero": 56,
+  "branch": "ci/playwright-sem-apt",
+  "commit": "f1632b0",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/43029210629",
-  "concluidoEm": "2026-11-11T13:28:01.213Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/43041863824",
+  "concluidoEm": "2026-11-11T14:48:17.336Z",
   "conclusao": "success"
  },
  "totais": {

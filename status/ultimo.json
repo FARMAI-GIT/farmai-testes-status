@@ -1,13 +1,13 @@
 {
  "formato": 2,
  "run": {
-  "id": "43041863824",
-  "numero": 56,
-  "branch": "ci/playwright-sem-apt",
-  "commit": "f1632b0",
-  "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/43041863824",
-  "concluidoEm": "2026-11-11T14:48:17.336Z",
+  "id": "43241713770",
+  "numero": 57,
+  "branch": "main",
+  "commit": "53fe981",
+  "evento": "workflow_dispatch",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/43241713770",
+  "concluidoEm": "2026-11-12T14:54:06.213Z",
   "conclusao": "success"
  },
  "totais": {

@@ -1,13 +1,13 @@
 {
  "formato": 2,
  "run": {
-  "id": "43241713770",
-  "numero": 57,
+  "id": "43593784521",
+  "numero": 58,
   "branch": "main",
   "commit": "53fe981",
   "evento": "workflow_dispatch",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/43241713770",
-  "concluidoEm": "2026-11-12T14:54:06.213Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/43593784521",
+  "concluidoEm": "2026-11-14T12:14:49.835Z",
   "conclusao": "success"
  },
  "totais": {

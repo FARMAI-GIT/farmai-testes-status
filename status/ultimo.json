@@ -1,19 +1,20 @@
 {
  "formato": 2,
  "run": {
-  "id": "43593784521",
-  "numero": 58,
-  "branch": "main",
-  "commit": "53fe981",
-  "evento": "workflow_dispatch",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/43593784521",
-  "concluidoEm": "2026-11-14T12:14:49.835Z",
-  "conclusao": "success"
+  "id": "43594990449",
+  "numero": 59,
+  "branch": "testes/hb23-roteiros-golden",
+  "commit": "86e2cc5",
+  "evento": "pull_request",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/43594990449",
+  "concluidoEm": "2026-11-14T12:29:54.809Z",
+  "conclusao": "failure"
  },
  "totais": {
   "passou": 20,
-  "pendente": 85,
-  "pulado": 1
+  "pendente": 83,
+  "pulado": 1,
+  "falhou": 2
  },
  "tags": {
   "H21-CA01": [
@@ -109,7 +110,7 @@
   ],
   "H02-CA06": [
    "passou",
-   "passou"
+   "falhou"
   ],
   "H02-CA07": [
    "pendente"
@@ -139,13 +140,13 @@
    ]
   },
   "GD-LGPD-01": {
-   "status": "pendente",
+   "status": "passou",
    "historias": [
     "H02"
    ]
   },
   "GD-LGPD-02": {
-   "status": "pendente",
+   "status": "falhou",
    "historias": [
     "H02"
    ]

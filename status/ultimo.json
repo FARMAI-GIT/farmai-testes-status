@@ -1,13 +1,13 @@
 {
  "formato": 2,
  "run": {
-  "id": "44354524944",
-  "numero": 60,
-  "branch": "main",
-  "commit": "53fe981",
-  "evento": "workflow_dispatch",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/44354524944",
-  "concluidoEm": "2026-11-18T17:06:02.009Z",
+  "id": "44543629665",
+  "numero": 61,
+  "branch": "termo-v0.2",
+  "commit": "97a05ee",
+  "evento": "pull_request",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/44543629665",
+  "concluidoEm": "2026-11-19T14:26:47.644Z",
   "conclusao": "success"
  },
  "totais": {

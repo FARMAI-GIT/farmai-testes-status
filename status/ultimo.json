@@ -1,13 +1,13 @@
 {
  "formato": 2,
  "run": {
-  "id": "45245639688",
-  "numero": 64,
+  "id": "45256070718",
+  "numero": 65,
   "branch": "fornecedor/bloco-2-parte-1",
-  "commit": "12ec84e",
+  "commit": "dd17b1c",
   "evento": "pull_request",
-  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/45245639688",
-  "concluidoEm": "2026-11-23T19:08:52.442Z",
+  "url": "https://github.com/FARMAI-GIT/farmai-mvp/actions/runs/45256070718",
+  "concluidoEm": "2026-11-23T20:08:43.455Z",
   "conclusao": "success"
  },
  "totais": {
